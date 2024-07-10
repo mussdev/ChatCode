@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ChatCode</string>
+    <string name="home_activity_title">Accueil</string>
+    <string-array name="posts">
+        <item>Poste 1</item>
+        <item>Poste 2</item>
+        <item>Poste 3</item>
+        <item>Poste 4</item>
+        <item>Poste 5</item>
+    </string-array>
+    <string name="error_empty_fields">Tous les champs sont obligatoires !</string>
+    <string name="error_password">Les mots de passe ne sont pas identiques !</string>
+    <string name="error_genre_user_checked_two_buttonRadio">Un utilisateur ne peut pas être à la fois Femmme et Homme. Veuillez choisir svp.</string>
+    <string name="succes_register">Votre compte a été créé avec succès</string>
+    <string name="error_genre_user_not_checked_two_buttonRadio">Vueillez indiquer votre genre svp !</string>
+    <string name="error_authentication">Mail ou mot de pas n\'est pas correct !</string>
+</resources>
